@@ -1,0 +1,8 @@
+
+###Curl
+
+Run Curl Commands Online: 
+https://reqbin.com/curl
+
+1. <<Command>>
+curl -H "Content-Length:0" -X POST https://www.example.com/admin
