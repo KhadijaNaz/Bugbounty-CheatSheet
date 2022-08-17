@@ -4,5 +4,8 @@
 Run Curl Commands Online: 
 https://reqbin.com/curl
 
-1. <<Command>>
-curl -H "Content-Length:0" -X POST https://www.example.com/admin
+<<Command>> (Ignor '>')
+
+> curl -H "Content-Length:0" -X POST https://www.example.com/admin
+
+> curl -X TRACE https://www.example.com/admin
